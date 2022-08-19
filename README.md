@@ -30,5 +30,7 @@ Later the this visual search was not available to test or work on it. Due to whi
 
 Thank You Note
 Dear Sentryc team,
-Thank you so much for giving me an opportunity to work on this task. It was great experience for me. I have provided the solutions to the best of my knowledge. Hoping to meet you further in the selection process. 
+Thank you so much for giving me an opportunity to work on this task. It was great experience for me. 
+My only source of information was the website related to playwright and youtube videos on playwright tutorials.I have provided the solutions to the best of my knowledge. 
+Hoping to meet you further in the selection process. 
 
